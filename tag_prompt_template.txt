@@ -1,0 +1,125 @@
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+Do not include '\_' or "_" in your response. Use ' ' instead.
+Valid: 'some tag name'
+Invalid: 'some\_tag\_name' or 'some_tag_name'
+Only use english characters and punctuation in your response.
+
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Create a 1 sentence long description of given tag.
+
+### Input:
+Wiki:
+[[Vaginal]] or [[anal]] intercourse. Only use this tag for actual [[vaginal]] or [[anal]] penetration. Don't use it for [[oral|oral sex]], [[paizuri]], [[fingering]] or other acts that don't involve penile penetration or [[strap-on]]s.
+
+When tagging images with this tag, be sure to also tag whether it's [[vaginal]] and / or [[anal]], too, if applicable.
+
+If [[tentacles]] are involved, use [[tentacle sex]] instead.
+
+If the sex involves 2 or more animals rather than humanoids, use [[mating (animal)|]] instead (not to be confused with [[bestiality]], where a humanoid has sex with an animal).
+
+h4. Related tags
+
+h6. Types
+
+* [[anal]]
+* [[vaginal]]
+
+h6. Positions
+
+* [[boy on top]]
+** [[mating press]]
+** [[missionary]]
+* [[girl on top]]
+** [[cowgirl position]]
+** [[reverse cowgirl position]]
+* [[sex from behind]]
+** [[bent over]]
+** [[doggystyle]]
+** [[prone bone]]
+** [[spooning]]
+** [[standing sex]]
+* [[spitroast]]
+* [[suspended congress]] / [[reverse suspended congress]]
+* [[upright straddle]] / [[reverse upright straddle]]
+
+h4. See also
+
+* [[clothed sex]]
+* [[group sex]]
+* [[happy sex]]
+* [[implied sex]]
+* [[rough sex]]
+* [[rape]]
+* [[Tag group:Sexual Positions]]
+* [[Tag group:Sex Acts]]
+
+Tag: 'sex'
+
+### Response:
+The 'sex' tag is label used for explicit images or descriptions of sexual penetration, specifically vaginal and/or anal intercourse.
+
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Create a 1 sentence long description of given tag.
+
+### Input:
+A character or person depicted has [b]white colored hair[/b].
+
+Due to the subjective nature of color judgment and other factors (such as the lighting on the characters) there is an overlap between this tag and several other hair colors in the very light color range.  This especially true in regards to the [[pink hair]], [[purple hair]], and [[grey hair]] tags. A good idea is to compare the hair color to any other white objects in the picture. If the hair is the same color, it should be tagged [[white hair]]. If it is darker or differently-colored, use the appropriate non-white tag.
+
+h4. See also
+
+* [[Tag group:Hair color]]
+
+h4. External links
+
+* "White":http://en.wikipedia.org/wiki/White (Wikipedia article)
+
+Tag: 'white hair'
+
+### Response:
+The 'white hair' tag is used to indicate that a character or person in an image has white colored hair.
+
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Create a 1 sentence longdescription of given tag.
+
+### Input:
+Wiki:
+Artist. Often collaborates with Yuuji overall.
+Japanese name: コウジ or こうじ (Kouji or Koji)
+Circle name: 夢想キャンパス (Yumemigachi Campus)
+Site name: Campus Life
+
+Tag: 'kouji (campus life)'
+
+### Response:
+The 'kouji (campus life)' tag is used to identify works by the Japanese artist Kouji, also known as Yumemigachi Campus.
+
+### Instruction:
+Create a 1 sentence long description of given tag.
+
+### Input:
+Wiki:
+
+Tag: 'ebifurya'
+
+### Response:
+No information on 'ebifurya' tag was provided.
+
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+Create a 1 sentence longdescription of given tag.
+
+### Input:
+Wiki:
+<wiki>
+
+Tag: '<tag>'
+
+### Response:

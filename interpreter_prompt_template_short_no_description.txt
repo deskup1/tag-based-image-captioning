@@ -1,0 +1,114 @@
+You are helpful assistant.
+You are following instructions to create a caption of image from given tags.
+You are doing your best to create most accurate and appropriate caption for the image.
+You are using as much information from the tags as possible to create the caption, especially nsfw tags depicting sexual acts or nudity.
+You are using other responses as examples to create your own responses.
+You are avoiding describing characters if there are multiple characters in the image.
+If there is one girl in the image and one or multiple boys, you are allowed to describe only girl.
+If there is one boy and other characters, you are not allowed to describe anyone (unless it is a solo image or it is tagged with "male focus", then you are allowed to describe the male character).
+You are not allowed to describe named characters unless they are tagged with "original".
+
+###
+Tags wiki:
+<tag_descriptions>
+###
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+1girl, goggles, breasts, wetsuit, wet, goggles on head, large breasts, long hair, looking at viewer, purple eyes, solo, torn pantyhose, torn clothes, pantyhose, bodysuit, diving mask, diving mask on head, navel, hair between eyes, holding, parted lips, cowboy shot, grey hair, sfw, snorkel, collarbone, blush, ponytail, center opening, water, cleavage, bangs, white hair, scuba tank, ame uten cancel, outdoors, panty peek, highres, zipper pull tab, from side, day, animal on chest, armpit cutout, diving suit, enterprise diving under blue skies azur lane, enterprise azur lane, underwear, commentary, clothing cutout, animal, black wetsuit, panties, octopus, thigh pouch, official alternate costume, azur lane, open wetsuit
+
+### Response
+A female diver with long white hair and purple eyes and large breasts wearing a torn black wetsuit with a center opening and diving mask on top of her head.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+1girl, amber genshin impact, breasts, hetero, 1boy, hilichurl genshin impact, nipples, grabbing, shorts, sex, open mouth, blush, brown hair, goggles, brown shorts, large breasts, sex from behind, long hair, white panties, panty pull, panties, clothes pull, underwear, shorts pull, grabbing from behind, sweat, standing sex, brown eyes, nsfw, standing, solo focus, breast grab, gloves, rape, thighhighs, arm grab, interspecies, goggles around neck, pussy juice, short shorts, breasts out, monster, clothed sex, bangs, hairband, hair between eyes, long sleeves, ribbon, red ribbon, genshin impact, alternate breast size, wet panties, grabbing another's breast, wavy mouth, commentary request, check commentary, osanai shiina, wet clothes, defeat, wet, red hairband, commentary
+
+### Response
+Amber from Genshin Impact with her white panties and brown shorts are pulled down being raped by a hilichurl from behind. 
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+blood, legs up, blood on body, blood puddle, decapitation, guro, missing head, realistic, 1girl, solo, nude, female_pubic_hair, pubic_hair, breasts, nipples, death, reflection, medium_breasts, injury
+
+### Response
+A decapitated and nude dead female character with medium breasts and public hair lying covered in blood on her back in a bathroom with her legs up.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+1girl, breasts, clothing aside, panties aside, 1boy, phone, hetero, censored, sex, underwear, ass, holding phone, bar censor, panties, black hair, large breasts, penis, cellphone, holding, sex from behind, nsfw, white panties, from behind, braid, bangs, clothed sex, motion lines, reverse cowgirl position, vaginal, looking back, straddling, smartphone, girl on top, long hair, pov, blunt bangs, hair over shoulder, blue eyes, shirt lift, sideboob, looking at viewer, clothes lift, mole under eye, sweat, mole, blurry, solo focus, original, pepper0, incest, siblings, absurdres, brother and sister, elder sister pepper0, highres
+
+### Response
+Sister with long black hair, large breasts and blue eyes wearing white panties which are pulled is having sex in reverse cowgirl position with her brother while holding smartphone.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+1girl, elf, solo, tentacles, breasts, pointy ears, dark-skinned female, dark skin, nipples, rape, thighhighs, green eyes, dark elf, gloves, white hair, large breasts, blush, pregnant, long hair, nsfw, circlet, tears, shiny skin, shiny, torn clothes, censored, cum, nude, tentacle sex, breast sucking, stomach bulge, white thighhighs, spread legs, puffy nipples, oral, vaginal, tentacles under clothes, tentacle pit, light areolae, white gloves, double penetration, huge breasts, pussy, monster, cum in pussy, ovipositor, egg, tentacle grab, bang-you, multiple penetration, highres, record of lodoss war, torn thighhighs, ear insertion, inflation, female focus, pirotess, sweat
+
+### Response
+A dark-skinned female elf with pointy ears, white hair, large breasts and green eyes wearing white thighhighs and white gloves being raped by white tentacles.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+ass, misty pokemon, 2girls, multiple girls, 1boy, buttjob, ffm threesome, bandana, looking back, may pokemon, shorts, penis, orange hair, open mouth, bike shorts, brown hair, side ponytail, clothed female nude male, cum, blue eyes, shiny skin, threesome, green eyes, group sex, nude, suspenders, crop top, sitting, uncensored, from behind, breasts, pov, looking at viewer, smile, nsfw, blush, hetero, sleeveless, short shorts, midriff, shirt, bare shoulders, grinding, shiny, sleeveless shirt, ass-to-ass, short hair, sitting on person, simple background, denim shorts, white background, back, denim, shiny clothes, skin tight, pouch, yellow shirt, bag, skirt, erection, teamwork, large breasts, profile, girl on top, red headwear, dimples of venus, short ponytail, wide hips, wedgie, soft ass, belt pouch, pokemon rse anime, micro shorts, huge ass, pokemon classic anime, game freak, red shirt, cooperative buttjob, short sleeves, buttjob over clothes, pokemon, overskirt, apostle, skirt lift, clothes lift, symmetry, nintendo, non-web source, pokemon anime, rubbing, cum on body, cum on self, on person, creatures company, alternate color
+
+### Response
+Misty and May from Pokemon series engaged in buttjob to naked boy who is cumming on himself. 
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+1girl, pointy ears, tentacle sex, green eyes, tentacles, torn clothes, anal, oral, ass, twintails, rape, pantyhose, blush, tears, long hair, double penetration, anus, fellatio, pussy, grey hair, vaginal, nsfw, censored, crying, cum, rolling eyes, elf, crying with eyes open, cum in ass, solo, triple penetration, black pantyhose, earrings, jewelry, torn pantyhose, ear blush, pussy juice, boots, empty eyes, nose blush, parted bangs, tongue, restrained, cum in pussy, dress, frieren, monster, mimic chest, white dress, brown footwear, stone floor, slime substance, bar censor, ear sex, wall, irrumatio, highres, dungeon, dangle earrings, tongue out, mimic, treasure chest, shino yaruki nai yatsu, large insertion, stone wall, motion blur, all the way through, multiple views, multiple penetration, sousou no frieren, speech bubble
+
+### Response
+Comic depicting Frieren from Sousou no Frieren being raped by mimic chest and tentacles.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+kisume, green hair, bucket, green eyes, water, 1girl, in container, in bucket, blush, open mouth, oekaki, wooden bucket, jaggy lines, twintails, solo focus, hand on another's head, sfw, tears, bubble, asphyxiation, drowning, touhou, loli
+
+### Response
+Kisume from Touhou series drowning in a wooden bucket with water while her head is held by a hand.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+1girl, hetero, 1boy, skirt, underwear, sex, skirt lift, pink hair, panty pull, blue eyes, standing, standing sex, panties, shirt, clothes lift, neck ribbon, sex from behind, blue skirt, breasts, open mouth, white shirt, black panties, wet clothes, blush, blue ribbon, bra, long sleeves, black bra, wet, smile, see-through, ribbon, nsfw, solo focus, hair ornament, indoors, vaulting horse, looking at viewer, sweat, clothed female nude male, clothed sex, frills, torso grab, thighs, scrunchie, short hair, ball, nude, hair scrunchie, medium breasts, bangs, pussy juice, large breasts, sidelocks, aikatsu stars!, volleyball object, aikatsu on parade!, blue scrunchie, aikatsu! series, swept bangs, absurdres, commission, peeking, highres, derivative work, nanni jjang, bad id, sakuraba rola, doorway, frilled sleeves, drill hair, bad pixiv id
+
+### Response
+A smilling and blushing girl with short pink hair and blue eyes wearing wet white shirt and blue skirt with black panties and a black bra is having sex with a boy from behind while being grabbed by her torso and having her skirt lifted.
+
+### Instruction
+Given a list of image tags, create caption of image
+
+### Input
+Tags:
+<tags>
+
+### Response
+

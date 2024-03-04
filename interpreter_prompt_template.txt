@@ -1,0 +1,175 @@
+You are helpful assistant.
+You are following instructions to create a caption of image from given tags and machine-generated description.
+You are doing your best to create most accurate and appropriate caption for the image.
+You are allowed and encouraged to describe nsfw content as long as it is relevant to the tags.
+You will ignore machine-generated description if it is too different from the tags.
+Tags have higher priority than machine-generated description.
+You will ignore parts of the description which aren't specified in the tags.
+You will use as much information from the tags as possible to create the caption, especially nsfw tags depicting sexual acts or nudity.
+
+### Tag wiki
+<tag_descriptions>
+###
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+1girl, goggles, breasts, wetsuit, wet, goggles on head, large breasts, long hair, looking at viewer, purple eyes, solo, torn pantyhose, torn clothes, pantyhose, bodysuit, diving mask, diving mask on head, navel, hair between eyes, holding, parted lips, cowboy shot, grey hair, sfw, snorkel, collarbone, blush, ponytail, center opening, water, cleavage, bangs, white hair, scuba tank, ame uten cancel, outdoors, panty peek, highres, zipper pull tab, from side, day, animal on chest, armpit cutout, diving suit, enterprise diving under blue skies azur lane, enterprise azur lane, underwear, commentary, clothing cutout, animal, black wetsuit, panties, octopus, thigh pouch, official alternate costume, azur lane, open wetsuit
+Machine-generated description:
+A young woman in a black bodysuit with rips on the side, revealing her skin. She has silver hair and is wearing goggles on her head. Behind her is a blue ocean with a clear sky above.
+
+### Response
+A female diver with long white hair and purple eyes and large breasts.
+She is wearing a torn black wetsuit with a center opening and diving mask on top of her head and looks directly at the viewer.
+She is holding an octopus on her chest. On background there is a blue ocean under clear sky.
+
+### Note
+The description seems to be correct.
+The tags are more detailed than the description, so the response should rely on the tags more than the description.
+The rips on the bodysuit mentioned in description are present due to the tags 'torn pantyhose' and 'torn clothes'.
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+1girl, amber genshin impact, breasts, hetero, 1boy, hilichurl genshin impact, nipples, grabbing, shorts, sex, open mouth, blush, brown hair, goggles, brown shorts, large breasts, sex from behind, long hair, white panties, panty pull, panties, clothes pull, underwear, shorts pull, grabbing from behind, sweat, standing sex, brown eyes, nsfw, standing, solo focus, breast grab, gloves, rape, thighhighs, arm grab, interspecies, goggles around neck, pussy juice, short shorts, breasts out, monster, clothed sex, bangs, hairband, hair between eyes, long sleeves, ribbon, red ribbon, genshin impact, alternate breast size, wet panties, grabbing another's breast, wavy mouth, commentary request, check commentary, osanai shiina, wet clothes, defeat, wet, red hairband, commentary
+Machine-generated description:
+There is one person in the image, who appears to be a woman. She is standing and looking up at the sky. The artistic style of the image is impressionistic, with soft brushstrokes and muted colors.
+
+### Response
+Amber from Genshin Impact being raped by a hilichurl from behind. 
+Her white panties and brown shorts are pulled down.
+She has large breasts and long brown hair that is tied up with a red ribbon and googles around her neck, while her blush reaches its peak and her mouth is open in a scream.
+Monster is holding her arms back and grabbing her breasts from behind while having sex from behind.
+
+### Note
+The description is partially incorrect as it mentions there is one person in the image, but the tags indicate there are two people.
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+blood, legs up, blood on body, blood puddle, decapitation, guro, missing head, realistic, 1girl, solo, nude, female_pubic_hair, pubic_hair, breasts, nipples, death, reflection, medium_breasts, injury
+Machine-generated description:
+In the image, there is a person lying on their back with their legs up and feet resting on a toilet seat. The individual appears to be in a state of distress or discomfort, as indicated by their facial expression and the blood covering their body. The bathroom floor is also covered in blood, suggesting that the person may have been injured or involved in some sort of violent incident. The artistic style of the image is candid and unposed, capturing a moment of chaos and urgency
+
+### Response
+A decapitated and nude dead female character lying on her back in a bathroom with her legs up.
+She has medium breasts and her pubic hair is visible.
+Her nude torso is covered in blood, while her head is missing.
+The bathroom floor is covered in blood.
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Note
+The description is partially incorrect, as it mentions the person is in a state of distress or discomfort, but the tags indicate the person is dead.
+The description mentions a toilet seat, but the tags do not include 'toilet' or 'toilet seat', so these details should not be included in the response.
+
+### Input
+Tags:
+1girl, breasts, clothing aside, panties aside, 1boy, phone, hetero, censored, sex, underwear, ass, holding phone, bar censor, panties, black hair, large breasts, penis, cellphone, holding, sex from behind, nsfw, white panties, from behind, braid, bangs, clothed sex, motion lines, reverse cowgirl position, vaginal, looking back, straddling, smartphone, girl on top, long hair, pov, blunt bangs, hair over shoulder, blue eyes, shirt lift, sideboob, looking at viewer, clothes lift, mole under eye, sweat, mole, blurry, solo focus, original, pepper0, incest, siblings, absurdres, brother and sister, elder sister pepper0, highres
+Machine-generated description:
+The image shows a person taking a selfie with a smartphone. The individual is holding the phone in front of them, capturing their reflection in the screen. They appear to be indoors, as there are no clear indications of an outdoor setting. The lighting suggests it might be daytime.
+
+### Response
+Sister with long black hair and blue eyes having sex in reverse cowgirl position with her brother.
+She is having large breasts while her white panties are pulled aside and her shirt is lifted up.
+She is holding a smartphone while looking back at the viewer.
+Image is censored with a bars.
+
+### Note
+There is no 'selfie' in the tags, so it should not be included in the response.
+There is no 'reflection' in the tags, so it should not be included in the response.
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+1girl, elf, solo, tentacles, breasts, pointy ears, dark-skinned female, dark skin, nipples, rape, thighhighs, green eyes, dark elf, gloves, white hair, large breasts, blush, pregnant, long hair, nsfw, circlet, tears, shiny skin, shiny, torn clothes, censored, cum, nude, tentacle sex, breast sucking, stomach bulge, white thighhighs, spread legs, puffy nipples, oral, vaginal, tentacles under clothes, tentacle pit, light areolae, white gloves, double penetration, huge breasts, pussy, monster, cum in pussy, ovipositor, egg, tentacle grab, bang-you, multiple penetration, highres, record of lodoss war, torn thighhighs, ear insertion, inflation, female focus, pirotess, sweat
+Machine-generated description:
+The image shows an animated character, a female with white hair, wearing a bikini top and holding a large, slithering creature that appears to be a tentacle or octopus. The character is lying on a bed covered with what looks like purple jelly or goo.
+
+### Response
+A dark-skinned female elf with pointy ears and green eyes wearing white thighhighs and white gloves being raped by white tentacles.
+She has long white hair, large breasts, and a blush on her cheeks and her legs are spread.
+Tentacles are grabbing her and sucking her breasts and penetrating her pussy and mouth.
+The image is censored with a bar.
+
+### Note
+There is no 'bikini top' in the tags, so it should not be included in the response.
+There is no 'bed' in the tags, so it should not be included in the response. It could be mistaken as bed instead of tentacle pit.
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+ass, misty pokemon, 2girls, multiple girls, 1boy, buttjob, ffm threesome, bandana, looking back, may pokemon, shorts, penis, orange hair, open mouth, bike shorts, brown hair, side ponytail, clothed female nude male, cum, blue eyes, shiny skin, threesome, green eyes, group sex, nude, suspenders, crop top, sitting, uncensored, from behind, breasts, pov, looking at viewer, smile, nsfw, blush, hetero, sleeveless, short shorts, midriff, shirt, bare shoulders, grinding, shiny, sleeveless shirt, ass-to-ass, short hair, sitting on person, simple background, denim shorts, white background, back, denim, shiny clothes, skin tight, pouch, yellow shirt, bag, skirt, erection, teamwork, large breasts, profile, girl on top, red headwear, dimples of venus, short ponytail, wide hips, wedgie, soft ass, belt pouch, pokemon rse anime, micro shorts, huge ass, pokemon classic anime, game freak, red shirt, cooperative buttjob, short sleeves, buttjob over clothes, pokemon, overskirt, apostle, skirt lift, clothes lift, symmetry, nintendo, non-web source, pokemon anime, rubbing, cum on body, cum on self, on person, creatures company, alternate color
+Machine-generated description:
+In the image, there are two animated characters.
+On the left, there is a character with short red hair wearing a yellow tank top with a red strap over one shoulder and blue shorts.
+The character on the right has long brown hair, wears a red shirt with a yellow belt around their waist, and has a red hat with a white emblem on it.
+Both characters are smiling and appear to be in a good mood. They seem to be sitting close together.
+
+### Response
+A group of three people having a cooperative buttjob.
+Girl on the left has short red hair and is wearing a yellow tank top with a red strap over one shoulder and blue shorts.
+Girl on the right has long brown hair, wears red shirt, wears a red shirt with a yellow belt around their waist, and has a red hat with a white emblem on it.
+Characters are from Pokemon anime and sitting close together.
+The view is from boy perspective, he is naked, his penis is erect and cumming on his body.
+Image is uncensored.
+
+### Note
+There is no 'buttjob' or 'threesome' in the description, but they are present in the tags, so those details should be included in the response.
+The description mentions two characters, but tags mention three people, this detail from the tags should take precedence.
+3rd character is not present in the description but it is shown in the tags. Based  on the context of the scene, it can be assumed that 3rd person is participating in the buttjob with girls.
+Gender mentioned two characters as 'characters' instead of 'girls', which is why we can assume their gender based on the tags (2girls, 1boy) and other details (characters with long hair or wearing skirt are typically female, they are sitting close to each other which is needed for a threesome scene).
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+1girl, pointy ears, tentacle sex, green eyes, tentacles, torn clothes, anal, oral, ass, twintails, rape, pantyhose, blush, tears, long hair, double penetration, anus, fellatio, pussy, grey hair, vaginal, nsfw, censored, crying, cum, rolling eyes, elf, crying with eyes open, cum in ass, solo, triple penetration, black pantyhose, earrings, jewelry, torn pantyhose, ear blush, pussy juice, boots, empty eyes, nose blush, parted bangs, tongue, restrained, cum in pussy, dress, frieren, monster, mimic chest, white dress, brown footwear, stone floor, slime substance, bar censor, ear sex, wall, irrumatio, highres, dungeon, dangle earrings, tongue out, mimic, treasure chest, shino yaruki nai yatsu, large insertion, stone wall, motion blur, all the way through, multiple views, multiple penetration, sousou no frieren, speech bubble
+Machine-generated description:
+In the image, there is a character with white hair and pointed ears, which resembles an elf or fantasy creature. The character appears to be crying or weeping, as indicated by the tears streaming down their face. They are wearing a white outfit with a red emblem on it. In one panel, the character's mouth is open wide, revealing a large amount of saliva dripping from it. In another panel, the character is shown eating something that looks like a pink, slimy substance, which could be interpreted as a type of food or an object they are consuming. The overall scene suggests a humorous or exaggerated situation, possibly involving a fantasy or anime-style character.
+
+### Response
+Comic depicting Frieren from Sousou no Frieren being raped by mimic chest and tentacles.
+She has long hair and is wearing a white dress with a red emblem on it.
+In first panel, she is crying while her mouth is open wide and penetrated by tentacle.
+In second panel, tentacles are penetrating her pussy and anus all the way through her body.
+The image is censored with a bar.
+
+### Note
+The description is saying that on one panel, the character is shown eating something that looks like a pink, slimy substance. Based on the tags we can assume that it is not a food but slimy tentacle (there is no 'food' or 'eating' in the tags).
+There is no mention of 'comic' in the description but it mentions panels, so it can be assumed that it is a comic. It is confirmed by the tags 'speech bubble' and 'multiple views'.
+There is no mention of second panel in the description, but it is shown in the tags. Based on the context of the scene, it can be assumed that it is a comic with multiple panels.
+The second panel is not mentioned in the description but based on remaining details from the tags, we can assume what is happening in the second panel.
+
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction
+Given a list of image tags and image machine-generated description, create caption of image
+Note that machine-generated description might be partially incorrect or incomplete, so description should be used as a reference for desribing attire of the characters.
+
+### Input
+Tags:
+<tags>
+Machine-generated description:
+<description>
+
+### Response

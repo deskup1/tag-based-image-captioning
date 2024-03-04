@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.venv/
+venv/
+.pytest_cache/
+__pycache__/
+
+
+# Ignore log files
+*.log

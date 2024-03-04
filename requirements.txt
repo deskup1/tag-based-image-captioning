@@ -1,0 +1,4 @@
+openai
+requests
+tinydb
+pillow
